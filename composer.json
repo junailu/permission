@@ -1,0 +1,17 @@
+{
+    "name": "peter\/permission",
+    "description": "Package description here.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "peter",
+            "email": "1550969027@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Peter\\Permission\\": "src"
+        }
+    }
+}
