@@ -14,15 +14,13 @@ $ composer require peter/permission -vvv
 TODO
 
 ## Contributing
-
-You can contribute in one of three ways:
-
-1. File bug reports using the [issue tracker](https://github.com/peter/permission/issues).
-2. Answer questions or fix bugs on the [issue tracker](https://github.com/peter/permission/issues).
-3. Contribute new features or update the wiki.
-
-_The code contribution process is not very formal. You just need to make sure that you follow the PSR-0, PSR-1, and PSR-2 coding guidelines. Any new code contributions must be accompanied by unit tests where applicable._
+    该扩展包是改写tp5 rbas扩展包
 
 ## License
-
+    修改内容
+    1.把user表改成了admin表
+    2.权限表新增了method 请求方式字段
+    3.还做了api接口开发请求方式权限判断
 MIT
+
+    感谢rbas的扩展包
